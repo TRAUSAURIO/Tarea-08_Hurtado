@@ -1,0 +1,5 @@
+Calificación: 2.0/3
+
+Las observaciones han sido ubicadas en cada archivo.
+El ejercicio 8, cuenta el total de cifras que tiene un número.
+Falta archivo word/pdf
