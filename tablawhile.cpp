@@ -9,6 +9,9 @@ int main() {
 
     cout << "Tabla de multiplicar del 12 al 1:" << endl;
 
+    
+    //EN ESTE EJERCICIO NO SE DEBE USAR 2 BUCLES
+    
     // Utilizamos un bucle while para iterar desde el 12 hasta el 1
     while (numero >= 1) {
         int contador = 1;
